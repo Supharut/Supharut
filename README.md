@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Supharut
 - 👀 I’m interested in Data Analytics by Python
-- 🌱 I’m currently learning basic python
+- 🌱 I’m currently learn basic python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
